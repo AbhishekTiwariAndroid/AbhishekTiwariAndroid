@@ -15,20 +15,6 @@ You can click the Preview link to take a look at your changes.
 
   
   <summary> 📈 My Github Stars </summary>
-![Abhishek Tiwari Stats]
-(https://github-readme-stats.vercel.app/api?username=abhishektiwari444&show_icons=true&theme=vision-friendly-dark)
+![Abhishek Tiwari Stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektiwari444)](https://github.com/anuraghazra/github-readme-stats)
   
-<br>
 
-</br>
-<a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=abhishektiwari444&hide=css&layout=compact" />
-</a>
-
-</br>
-</br>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektiwari444&" alt="abhishektiwari444" /></p>
-</br>
-</br>
