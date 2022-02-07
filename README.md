@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 
   
   <summary> 📈 My Github Stars </summary>
-![Abhishek Tiwari Stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektiwari444)](https://github.com/anuraghazra/github-readme-stats)
+![Abhishek Tiwari Stats](https://github-readme-stats.vercel.app/api?username=abhishektiwari444&show_icons=true&theme=vision-friendly-synthwave)
   
-
+<br></br>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektiwari444&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
