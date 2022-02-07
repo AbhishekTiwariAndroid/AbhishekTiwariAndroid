@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishektiwari444
 - 👀 I’m interested in Android Development | Automation (Selenium) | Cloud Computing | Cyber Forensics | Ethical Hacking...
 - 🌱 I’m🎓 currently working on Native App Development ( Java, Kotlin, JetPack Compose, Firebase)...
-- 🎓 I have completed Bsc. Computer Science in 2021 from Ismail Yusuf College (Govt. of Maharashtra Clg) Affiliated to Mumbai University
+- 🎓 I have completed Graduation Degree in Computer Science in the Year 2021 from Ismail Yusuf College (Govt. of Maharashtra Clg) Affiliated to Mumbai University
 - 💞️ I’m looking to collaborate on Android App
 - 📫 Reach at me : [LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-3b0693228/)
 [Gmail](https://www.github.com/tiwariabhishekt040@gmail.com)
