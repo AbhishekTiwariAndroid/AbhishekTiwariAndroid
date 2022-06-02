@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @abhishektiwari444
+# Hi there👋! I'm Abhishek Tiwari 🙋‍♂️
+
+![Profile views](https://gpvc.arturio.dev/abhishektiwari444)
+
+
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and MVVM Architecture Kotlin/Java_ 🥽.
+
+### 🎍 Welcome to my hub 👨‍💻
 - 👀 I’m interested in Android Development | Automation (Selenium) | Cloud Computing | Cyber Forensics | Ethical Hacking...
 - 🌱 I’m🎓 currently working on Native App Development ( Java, Kotlin, JetPack Compose, Firebase)...
 - 🎓 I have completed Graduation Degree in Computer Science in the Year 2021 from Ismail Yusuf College (Govt. of Maharashtra Clg) Affiliated to Mumbai University
