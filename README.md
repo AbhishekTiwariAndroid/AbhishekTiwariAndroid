@@ -1,6 +1,6 @@
 # Hi there👋! I'm Abhishek Tiwari  🙋‍♂️
 
-![Profile views](https://gpvc.arturio.dev/abhishektiwari444)
+![Profile views](https://gpvc.arturio.dev/AbhishekTiwariAndroid)
 
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and MVVM Architecture Kotlin/Java_ 🥽.
@@ -16,7 +16,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and MVVM Architecture Ko
 
   
 <!---
-abhishektiwari444/abhishektiwari444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AbhishekTiwariAndroid/AbhishekTiwariAndroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
   <summary>📈 My GitHub Stats</summary>
   <br></br>
   
-![Abhishek Tiwari Stats](https://github-readme-stats.vercel.app/api?username=abhishektiwari444&show_icons=true&theme=vision-friendly-synthwavek) 
+![Abhishek Tiwari Stats](https://github-readme-stats.vercel.app/api?username=AbhishekTiwariAndroid&show_icons=true&theme=vision-friendly-synthwavek) 
 
 <br></br>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektiwari444&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTiwariAndroid&layout=compact)
 <br></br>  
 
 
