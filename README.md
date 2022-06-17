@@ -12,7 +12,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and MVVM Architecture Ko
 - 💞️ I’m looking to collaborate on Android App
 - 📫 Reach at me : [LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-3b0693228/)
 [Gmail](https://www.github.com/tiwariabhishekt040@gmail.com)
-<details>
+
 
   
 <!---
@@ -22,10 +22,8 @@ You can click the Preview link to take a look at your changes.
   
 ### 📊 Github Stats
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishektiwariandroid&count_private=true&show_icons=true&include_all_commits=true" alt="Abhishek Tiwari | Stats" />
-    
-- - -
-  
-  
+
+---
 
 
 
