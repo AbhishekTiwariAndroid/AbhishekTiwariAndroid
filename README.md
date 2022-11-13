@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/AbhishekTiwariAndroid)
 
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and MVVM Architecture Kotlin/Java_ 🥽.
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose , Async UI update & MVVM Architecture Kotlin/Java_  🥽.
 
 ### 🎍 Welcome to my hub 👨‍💻
 - 👀 I’m interested in Android Development | Automation (Selenium) | Cloud Computing | Cyber Forensics | Ethical Hacking...
