@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 
   -  -  -  -  -  -
 <br></br><p> 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=abhishektiwariandroid)](https://github.com/AbhishekTiwariAndroid/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=abhishektiwariandroid&layout=compact)](https://github.com/AbhishekTiwariAndroid/github-readme-stats)</p>
 <br></br> 
