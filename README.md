@@ -22,14 +22,10 @@ You can click the Preview link to take a look at your changes.
   
 ### 📊 Github Stats
 
- <p align="center"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=abhishektiwariandroid&show_icons=true&locale=en&theme=transparent" alt="ovi" /></p>
+<div align="center">
 
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishektiwariandroid&theme=transparent)</div>
   
-  
-
-  
-
-
   -  -  -  -  -  -
 <br></br><p> 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTiwariAndroid&layout=compact)
